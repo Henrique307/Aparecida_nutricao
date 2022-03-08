@@ -1,3 +1,3 @@
 # Aparecida_nutricao
 
-Site básico para treinar formulários e adições padrão com JS
+Interface simples para treinar formulários, o uso do DOM e adições com JS.
